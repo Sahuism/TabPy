@@ -23,7 +23,7 @@ These are prerequisites for an environment required for a contributor to
 be able to work on TabPy changes:
 
 - Python 3.6.5:
-  - To see which version of Python you have installed, run ```python --version```.
+  - To see <em>which</em> version of Python you have installed, run ```python --version```.
 - git
 - TabPy repo:
   - Get the latest TabPy repository with `git clone https://github.com/tableau/TabPy.git`
